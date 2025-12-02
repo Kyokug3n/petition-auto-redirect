@@ -1,1 +1,0 @@
-# petition-auto-redirect
